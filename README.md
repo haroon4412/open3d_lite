@@ -1,2 +1,2 @@
-# Open3D-Numpy
-  The objective of this repository is to make a numpy like syntax to open3d package
+# Open3D-Lite
+  The objective of this repository is to simplify the syntax of open3d
